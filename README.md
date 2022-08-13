@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
-I am too designer an apasionate for the tech , I like spend time with family and I love play and hear music. I know JS | React | Node.js | Git . Next to be Full-stack web developer , motivated by learning and open to job opportunities.
+I'm too designer and passionate about technology, I like spending time with family and I love playing guitar and listening to music. I know JS | React | Node.js | Git . Next to be Full-stack web developer , motivated by learning and open to job opportunities.
 
 ---
 
