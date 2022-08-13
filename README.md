@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
-I am a full time Microverse student. I know JS | React | Node.js | Git . Next to be Full-stack web developer , motivated by learning and open to job opportunities.
+I am too designer an apasionate for the tech , I like spend time with family and I love play and hear music. I know JS | React | Node.js | Git . Next to be Full-stack web developer , motivated by learning and open to job opportunities.
 
 ---
 
