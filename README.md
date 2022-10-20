@@ -14,9 +14,9 @@ I am a designer passionate about technology, I like spending time with family an
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figm" alt="Figm" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="Ilustrato" alt="Ilustrator" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
 </div>
 
