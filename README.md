@@ -16,6 +16,8 @@ I am a designer passionate about technology, I like spending time with family an
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
