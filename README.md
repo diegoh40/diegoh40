@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
-I am a designer passionate about technology, I like spending time with family and I love playing guitar and listening to music. I know HTML | CSS | JS | React | Redux | Ruby | Ruby on Rails | Git . Full-stack web developer, motivated and open to new learning experiences.
+I am Full-stack web developer and designer too passionate about technology, I like spending time with family and I love playing guitar and listening to music. I know HTML | CSS | JS | React | Redux | Ruby | Ruby on Rails | Git . motivated and open to new learning experiences.
 
 ---
 
@@ -11,6 +11,7 @@ I am a designer passionate about technology, I like spending time with family an
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
