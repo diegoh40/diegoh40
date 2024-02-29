@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
-I am a Full-stack web developer and designer who is passionate about technology. I like spending time with family, love playing the guitar, and listening to music. I know HTML | CSS | JS | React | Redux | Ruby | Ruby on Rails | Git | Postgresql. I am motivated and open to new learning experiences!
+I am a full-stack web developer and designer who is passionate about technology. I enjoy spending time with my family, playing the guitar, and listening to music. My skill set includes HTML, CSS, JavaScript, React, Redux, Ruby, Ruby on Rails, Git, and PostgreSQL. I am motivated and always open to new learning experiences!
 
 ---
 
